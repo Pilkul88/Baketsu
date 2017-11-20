@@ -1,0 +1,37 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\scripts\lensManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\colorblock.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\rotateObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\block.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\isGround.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\moveObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\scale.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\LensScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GravityBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Reaper.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\colorBlockManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlayerController.cs" Line="87" Column="68" />
+      <File FileName="Assets\scripts\wind.cs" Line="1" Column="1" />
+      <File FileName="Assets\tutorial_movie.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\StoryManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\fade.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\moveEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\mob2.cs" Line="1" Column="1" />
+      <File FileName="Assets\tutorial_stage.cs" Line="1" Column="1" />
+      <File FileName="Assets\OldMan.cs" Line="1" Column="1" />
+      <File FileName="Assets\first_fade.cs" Line="1" Column="1" />
+      <File FileName="Assets\SceneTransition.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\CheckPointParent.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\CheckPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\NewBehaviourScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
